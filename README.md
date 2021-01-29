@@ -2,7 +2,7 @@
 > A project for Codecademy's Full Stack Pro Path.
 
 ## Table of contents
-- [Mixed Messages](#mixed-messages)
+- [Excursion](#Excursion)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
