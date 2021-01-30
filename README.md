@@ -1,5 +1,5 @@
 # Excursion
-> A project for Codecademy's Full Stack Pro Path.
+> A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/excursion/)
 
 ## Table of contents
 - [Excursion](#Excursion)
