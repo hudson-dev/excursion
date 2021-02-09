@@ -12,7 +12,7 @@
   - [Contact](#contact)
 
 ## General info
-A portfolio project for Codecademy's Full Stack Pro Path to help familiarize me with HTMl, CSS, Github, and the terminal.
+A portfolio project for Codecademy's Full Stack Pro Path to help familiarize me with HTML, CSS, Github, and the terminal.
 
 ## Technologies
 * HTML
@@ -24,7 +24,7 @@ A portfolio project for Codecademy's Full Stack Pro Path to help familiarize me 
 To run this project, visit this website: 
 
 ## Status
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 All credit goes to [Codecademy](https://www.codecademy.com/learn)
