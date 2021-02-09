@@ -21,7 +21,7 @@ A portfolio project for Codecademy's Full Stack Pro Path to help familiarize me 
 * Command Line
 
 ## Setup
-To run this project, visit this website: 
+To run this project, clone the repo and host the website on Github Pages.
 
 ## Status
 Project is: _done_
